@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<a href="https://opgc.me/#/users/DavidLee18" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/DavidLee18/tag/?theme=basic" /></a>
 <!--
 **DavidLee18/DavidLee18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
