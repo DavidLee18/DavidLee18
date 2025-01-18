@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/djwodus?theme=nord&font=Roboto&ext=activity)
 <!--
 **DavidLee18/DavidLee18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
