@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+### Hi, I'm currently on the 42 cursus, at 42 Gyeongsan.
 <!--
 **DavidLee18/DavidLee18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
