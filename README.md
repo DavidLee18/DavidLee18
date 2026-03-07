@@ -1,8 +1,7 @@
 ## Hi there 👋
+### I'm Jaehyun Lee, a cadet of 42 Gyeongsan!
 
 [![jaehylee's 42 stats](https://badge.mediaplus.ma/greenbinary/jaehylee?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-![David Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidLee18&show_icons=true&theme=blue-green)
 
 <!--
 **DavidLee18/DavidLee18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
